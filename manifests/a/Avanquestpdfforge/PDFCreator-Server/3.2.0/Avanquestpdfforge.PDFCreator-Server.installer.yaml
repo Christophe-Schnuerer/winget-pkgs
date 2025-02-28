@@ -2,7 +2,7 @@
 
 PackageIdentifier: Avanquestpdfforge.PDFCreator-Server
 PackageVersion: 3.2.0
-InstallerType: exe
+InstallerType: burn
 Scope: machine
 InstallModes:
   - interactive
