@@ -2,7 +2,7 @@
 
 PackageIdentifier: Avanquestpdfforge.PDFCreator-Professional
 PackageVersion: 5.2.0
-InstallerType: exe
+InstallerType: burn
 Scope: machine
 InstallModes:
   - interactive
