@@ -3,7 +3,7 @@
 
 PackageIdentifier: Avanquestpdfforge.PDFCreator-Terminal-Server
 PackageVersion: 5.3.1
-InstallerType: exe
+InstallerType: burn
 Scope: machine
 InstallModes:
 - interactive
